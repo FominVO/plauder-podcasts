@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>Plauder — подкасти</title><link>https://github.com/FominVO/plauder-podcasts</link><language>uk</language>
 <atom:link href="https://raw.githubusercontent.com/FominVO/plauder-podcasts/main/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 16 Oct 2026 23:45:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 20:20:00 +0000</lastBuildDate>
 <description>Приватні українські AI-подкасти від Plauder для Владислава Фоміна. Додавати лише за URL RSS.</description>
 <itunes:summary>Приватні українські AI-подкасти від Plauder для Владислава Фоміна.</itunes:summary>
 <itunes:author>Vladyslav Fomin</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block><itunes:category text="Technology"/>
+<item><title>№2 · Ендрю Ин у Марини Могилко: де справжні можливості ШІ — розбір</title><description>Короткий український подкаст за інтерв'ю Ендрю Ина (Coursera, DeepLearning.AI) у Марини Могилко: які завдання ШІ вже виконує, чому найважче — вирішити, що будувати, і як ШІ впливає на навчання. Ведучі: Анна і Дмитро.</description><guid isPermaLink="false">plauder-ng-mogilko-2</guid><pubDate>Sun, 18 Oct 2026 20:05:00 +0000</pubDate><enclosure url="https://github.com/FominVO/plauder-podcasts/releases/download/v1/podcast_ep00j.mp3" length="5558900" type="audio/mpeg"/><itunes:duration>00:05:47</itunes:duration><itunes:episode>2</itunes:episode></item>
 <item><title>№1 · Grok Galaxy — подкаст з Анною і Дмитром</title><description>Український подкаст про Grok Galaxy. Ведучі: Анна і Дмитро.</description><guid isPermaLink="false">plauder-galaxy-1</guid><pubDate>Fri, 16 Oct 2026 22:01:00 +0000</pubDate><enclosure url="https://github.com/FominVO/plauder-podcasts/releases/download/v1/galaxy-podcast.mp3" length="11463827" type="audio/mpeg"/><itunes:duration>00:11:56</itunes:duration><itunes:episode>1</itunes:episode></item>
 </channel></rss>
